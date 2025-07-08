@@ -14,7 +14,6 @@ This project simulates a complete Information Security Management System (ISMS) 
 | `05_Asset_Inventory.xlsx` | List of critical digital assets with owners and classification |
 | `06_KVKK_Compliance_Checklist.md` *(optional)* | Turkish data privacy checklist mapping to ISO 27001 |
 
----
 
 # ✅ Goals of This Project
 
@@ -24,8 +23,6 @@ This project simulates a complete Information Security Management System (ISMS) 
 - Demonstrate IT controls, risk thinking, and documentation skills
 
 ---
-
-# ⚠️ Disclaimer
 
 # 👤 Author
 *Mohammad Abdul Ghani*
